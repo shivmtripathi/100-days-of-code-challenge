@@ -1,5 +1,5 @@
 var myObj = {
-  "name":"KIET geoup of institutions",
+  "name":"KIET group of institutions",
   "add":"Ghaziabad",
   "departments": {
     "department1":"MCA",
