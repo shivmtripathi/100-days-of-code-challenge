@@ -8,7 +8,7 @@ var myObj = {
    "Btech":{
        "branch1":"EC",
        "branch2":"CS",
-       "branch3":"MI",
+       "branch3":"ME",
    }
    }
 }
